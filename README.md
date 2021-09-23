@@ -1,3 +1,3 @@
-# Gaiyang_FBThai_Analysist
+# Gaiyang_FBThai_Analysis
 ทำเล่นๆแก้เบื่อ
 เป็นการวิเคราะห์ฟุตบอลไทยลีกโดยอาจจะเน้นที่สมุทรปราการ555
